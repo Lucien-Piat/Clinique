@@ -1,5 +1,5 @@
 Veterinary Clinic Management System
-This Java program, named "Veterinary Clinic Management System," is designed to manage animal records in a veterinary clinic. The system allows users to perform various tasks such as adding animals, displaying the animal list, saving records to a file, searching for specific animals, counting individuals of a species, and more.
+This Java program, is designed to manage animal records in a veterinary clinic. The system allows users to perform various tasks such as adding animals, displaying the animal list, saving records to a file, searching for specific animals, counting individuals of a species, and more.
 
 Features
 Animal Classes:
